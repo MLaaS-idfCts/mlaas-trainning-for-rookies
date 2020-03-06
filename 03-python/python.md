@@ -11,7 +11,8 @@
     - https://www.w3schools.com/python/python_regex.asp
     - create regex for Email address (use [this site](https://regex101.com))
 -   ###### OOP
-    - d
+    - https://realpython.com/courses/intro-object-oriented-programming-oop-python/
+    - https://realpython.com/inheritance-composition-python/#whats-inheritance
 -   ###### flask
 -   ###### pytest and tox
 
