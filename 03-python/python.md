@@ -35,3 +35,4 @@
 -   tox
     
 ### Final Exercise:
+Write a song that glorifies Python. If you lack basic creativity, it can be a Haiku.
