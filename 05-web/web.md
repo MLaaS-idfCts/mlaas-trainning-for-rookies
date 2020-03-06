@@ -18,3 +18,4 @@
     
 ### Final Exercise:
 create a single page static website about [wiki](https://en.wikipedia.org/wiki/Special:Random).
+make it pretty - use css and in particular flexbox.
