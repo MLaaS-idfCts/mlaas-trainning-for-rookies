@@ -9,7 +9,7 @@
     - https://realpython.com/python-pep8/
 -   ###### regex
     - https://www.w3schools.com/python/python_regex.asp
-    - create regex for IP addresses (use [this site](https://regex101.com))
+    - create regex for Email address (use [this site](https://regex101.com))
 -   ###### OOP
     - d
 -   ###### flask
