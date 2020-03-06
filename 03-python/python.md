@@ -18,7 +18,7 @@
 -   ###### unit testing
     - [what is unit testing](http://letmegooglethat.com/?q=what+is+unit+testing)
     - [pytest](https://www.guru99.com/pytest-tutorial.html)
-    - [testing automation - tox](https://www.youtube.com/watch?v=-BHverY7IwU)
+    - [testing automation](https://www.youtube.com/watch?v=-BHverY7IwU)
     - [mock](https://realpython.com/python-mock-library/)
 
 ### Key Concepts:
@@ -29,5 +29,9 @@
 -   PEP
 -   isinstance and hasattr
 -   mixin
+-   whl file
+-   unit test vs integration test
+-   fixtures
+-   tox
     
 ### Final Exercise:
