@@ -7,6 +7,7 @@
     - [css tutorial](https://www.w3schools.com/css/) - **up to css align part**
     - [flexbox](https://internetingishard.com/html-and-css/flexbox/)
 -   ###### [javascript](https://www.tutorialspoint.com/javascript/index.htm) - **'Javascript Basics Tutorial' and 'JavaScript Objects'**
+-   https://www.w3schools.com/angular
 
 ### Key Concepts:
 -   tag language
