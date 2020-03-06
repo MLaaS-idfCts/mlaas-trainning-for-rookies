@@ -5,18 +5,17 @@ what is the difference between a container and vm, and how do they work.
 In the final exercise you will gain practical experience.
 
 ### TODO:
-    - complete https://training.play-with-docker.com for IT Pros and developers
-    - read about Configure networking, Manage application data in https://docs.docker.com
+-   complete https://training.play-with-docker.com for IT Pros and developers
+-   read about Configure networking, Manage application data in https://docs.docker.com
 
 ### Key Concepts:
-    - container
-    - image and layer
-    - dockerfile
-    - docker build and docker run
-    - bind mount vs volume
-    - dockerd
-    - docker compose
-    
+-   container
+-   image and layer
+-   dockerfile
+-   docker build and docker run
+-   bind mount vs volume
+-   dockerd
+-   docker compose
     
 ### Final Exercise:
-    Finish https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx
+Finish https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx
