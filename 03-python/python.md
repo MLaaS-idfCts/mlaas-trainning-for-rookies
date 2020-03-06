@@ -1,22 +1,33 @@
 # Python
-##### ETC: 
+##### ETC: 9 days
 
 ### TODO:
 -   ###### basic python
-    - read the [zen of python](https://en.wikipedia.org/wiki/Zen_of_Python)
-    - finish [Introduction to Python Programming](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=39197&u1=ddfreepython2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpythonforbeginnersintro%2F)
--   ###### pep8
-    - https://realpython.com/python-pep8/
+    - [zen of python](https://en.wikipedia.org/wiki/Zen_of_Python)
+    - [introduction to Python Programming](https://click.linksynergy.com/deeplink?id=vedj0cWlu2Y&mid=39197&u1=ddfreepython2&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fpythonforbeginnersintro%2F)
+    - [PEP8](https://realpython.com/python-pep8/)
+    - [OOP and python](https://realpython.com/inheritance-composition-python/#whats-inheritance)
 -   ###### regex
     - https://www.w3schools.com/python/python_regex.asp
     - create regex for Email address (use [this site](https://regex101.com))
--   ###### OOP
-    - https://realpython.com/courses/intro-object-oriented-programming-oop-python/
-    - https://realpython.com/inheritance-composition-python/#whats-inheritance
+-   ###### packages
+    - [python package](https://packaging.python.org/tutorials/packaging-projects/)
+    - [build cli - click](https://pymbook.readthedocs.io/en/latest/click.html)
 -   ###### flask
--   ###### pytest and tox
+    - https://programminghistorian.org/en/lessons/creating-apis-with-python-and-flask#finding-specific-resources
+-   ###### unit testing
+    - [what is unit testing](http://letmegooglethat.com/?q=what+is+unit+testing)
+    - [pytest](https://www.guru99.com/pytest-tutorial.html)
+    - [testing automation - tox](https://www.youtube.com/watch?v=-BHverY7IwU)
+    - [mock](https://realpython.com/python-mock-library/)
 
 ### Key Concepts:
-    - 
+-   "_Beautiful is better than ugly._"
+-   dynamic typing
+-   list, set and tuple
+-   list comprehension
+-   PEP
+-   isinstance and hasattr
+-   mixin
     
 ### Final Exercise:
