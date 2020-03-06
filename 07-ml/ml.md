@@ -1,5 +1,8 @@
 # Machine Learning
 ##### ETC: 10 days
+I hope you like buzzwords because this is the hottest field in the hi tech industry this days.
+This section is a small introduction for an unbelievably huge field, so it is extremely recommended to
+read more of this subject. 
 
 ### TODO:
 -   introduction:
@@ -35,5 +38,5 @@
 -   data pre processing
 
 ### Final Exercise:
-Do you like avocados? you have to! in this exercise you will create a model that will try to predict avocado prices.
+Do you like avocados? you must! in this exercise you will create a model that will try to predict avocado prices.
 You can find the dataset in this folder. Try use everything you have learned to make the most accurate model you can!
