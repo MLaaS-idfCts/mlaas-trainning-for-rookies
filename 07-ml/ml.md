@@ -19,6 +19,15 @@
 
 
 ### Key Concepts:
--   c
+-   AI, ML and DL
+-   model
+-   tabular data
+-   decision tree
+-   ensemble
+-   model metrics - accuracy, f1, etc...
+-   data pre proccesing
+
     
 ### Final Exercise:
+Do you like avocados? you have to! in this exercise you will create a model that will try to predict avocado prices.
+You can find the dataset in this folder. Try use everything you have learnd to make the most accurate model you can!
