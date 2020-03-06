@@ -8,7 +8,7 @@ read more of this subject.
 -   introduction:
     -   https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb
     -   https://intellipaat.com/blog/supervised-learning-vs-unsupervised-learning-vs-reinforcement-learning
--   cursera
+-   TODO: cursera
 -   Kaggle guides:
     -   https://www.kaggle.com/learn/intro-to-machine-learning
     -   https://www.kaggle.com/learn/pandas
