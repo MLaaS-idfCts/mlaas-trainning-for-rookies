@@ -1,4 +1,5 @@
 # Django
+By the end of this section, you will learn how to use the main web backend framework used by Python developers - Django.
 ##### ETC: 2 days
 
 ### TODO:
@@ -16,6 +17,7 @@
 -   Jinja2 vs DTL
 -   testing
 -   MVC vs MVT
+-   REST API
 -   serializer
     
 ### Final Exercise:
