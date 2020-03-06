@@ -23,6 +23,7 @@
 
 ### Key Concepts:
 -   "_Beautiful is better than ugly._"
+-   python2 vs python3
 -   dynamic typing
 -   list, set and tuple
 -   list comprehension
