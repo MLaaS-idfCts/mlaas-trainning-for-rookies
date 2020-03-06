@@ -1,5 +1,5 @@
 # Kubernetes
-##### ETC: 
+##### ETC: 2 days
 
 ### TODO:
 -   read about [kubernetes objects](https://kubernetes.io/docs/concepts/#kubernetes-objects)
@@ -16,5 +16,4 @@
 -   volumes
 -   daemonSet, statefulSet, replicaSet
 -   configMap
-    
-### Final Exercise:
+-   microservice
