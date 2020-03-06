@@ -1,11 +1,11 @@
 # Python
+##### ETC: 9 days
 By the twilight of this section,
 yours would be the Pythonic insight and capacity to be christened unto the ranks
 of the Python developers.
 Beware your pride of such titles,
 as adequate they may be, there is a long and arduous journey yet ahead of you,
 for the fruits of the language are manyfold, and in your hands lay but a taste.
-##### ETC: 9 days
 
 ### TODO:
 -   ###### basic python
