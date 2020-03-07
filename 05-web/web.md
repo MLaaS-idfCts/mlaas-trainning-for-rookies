@@ -4,12 +4,12 @@ This section is meant to create basic practical knowledge about web frontend pro
 frameworks and tools that are in use by the team. 
 
 ### TODO:
--   ###### [html tutorial](https://www.tutorialspoint.com/html/html_quick_guide.htm)
--   ###### css
-    - [css tutorial](https://www.w3schools.com/css/) - **up to css align part**
-    - [flexbox](https://internetingishard.com/html-and-css/flexbox/)
--   ###### [javascript](https://www.tutorialspoint.com/javascript/index.htm) - **'Javascript Basics Tutorial' and 'JavaScript Objects'**
--   ###### [angularjs](https://www.w3schools.com/angular)
+1. ###### [html tutorial](https://www.tutorialspoint.com/html/html_quick_guide.htm)
+2. ###### css
+    1. [css tutorial](https://www.w3schools.com/css/) - **up to css align part**
+    2. [flexbox](https://internetingishard.com/html-and-css/flexbox/)
+3. ###### [javascript](https://www.tutorialspoint.com/javascript/index.htm) - **'Javascript Basics Tutorial' and 'JavaScript Objects'**
+4. ###### [angularjs](https://www.w3schools.com/angular)
 
 ### Key Concepts:
 -   tag language

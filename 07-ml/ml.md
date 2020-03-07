@@ -5,28 +5,30 @@ This section is a small introduction for an unbelievably huge field, so it is ex
 read more of this subject. 
 
 ### TODO:
--   introduction:
-    -   https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb
-    -   https://intellipaat.com/blog/supervised-learning-vs-unsupervised-learning-vs-reinforcement-learning
--   TODO: cursera
--   Kaggle guides:
-    -   https://www.kaggle.com/learn/intro-to-machine-learning
-    -   https://www.kaggle.com/learn/pandas
-    -   https://www.kaggle.com/learn/data-visualization
-    -   https://www.kaggle.com/learn/deep-learning
--   google curse:
-    -   https://developers.google.com/machine-learning/crash-course/ml-intro
-    -   https://developers.google.com/machine-learning/data-prep
--   Ben Gurion Lessons:
-    -   [decision tree](https://www.youtube.com/watch?v=dUetL87cOs8&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=8)
-    -   [ensemble](https://www.youtube.com/watch?v=DiVZ4TNGDjg&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=9)
-    -   [model evaluation](https://www.youtube.com/watch?v=fp_fDfC_jcM&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=4)
-    -   IT is extremely recommended to watch the entire curse, but it is out of this document's scope.
+1.  introduction:
+    1. https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb
+    2. https://intellipaat.com/blog/supervised-learning-vs-unsupervised-learning-vs-reinforcement-learning
+2. TODO: cursera
+3. Kaggle guides:
+    1. https://www.kaggle.com/learn/intro-to-machine-learning
+    2. https://www.kaggle.com/learn/pandas
+    3. https://www.kaggle.com/learn/data-visualization
+    4. https://www.kaggle.com/learn/deep-learning
+4. google curse:
+    1. https://developers.google.com/machine-learning/crash-course/ml-intro
+    2. https://developers.google.com/machine-learning/data-prep
+5.  Ben Gurion Lessons:
+    1.  [decision tree](https://www.youtube.com/watch?v=dUetL87cOs8&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=8)
+    2.  [ensemble](https://www.youtube.com/watch?v=DiVZ4TNGDjg&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=9)
+    3.  [model evaluation](https://www.youtube.com/watch?v=fp_fDfC_jcM&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=4)
+
+    **is extremely recommended to watch the entire curse, but it is out of this document's scope.**
 
 ### Key Concepts:
 -   AI, ML and DL
 -   model
 -   supervised and unsupervised learning
+-   dataset
 -   problem types - regression, classification, clusterization, anomaly detection.
 -   tabular data
 -   linear regression
@@ -38,5 +40,5 @@ read more of this subject.
 -   data pre processing
 
 ### Final Exercise:
-Do you like avocados? you must! in this exercise you will create a model that will try to predict avocado prices.
+Do you like avocados? because in this exercise you will create a model that predicts avocado prices.
 You can find the dataset in this folder. Try use everything you have learned to make the most accurate model you can!

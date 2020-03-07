@@ -2,6 +2,7 @@
 
 ### devops
 ### postgress and SQL
+##### ETC: 1.5 days
 1.   [basic postgress and sql traning](https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql)
 2.  [postgres and django](https://docs.djangoproject.com/en/3.0/ref/contrib/postgres/)
 ### splunk

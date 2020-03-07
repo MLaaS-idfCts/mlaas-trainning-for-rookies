@@ -5,8 +5,8 @@ what is the difference between a container and vm, and how do they work.
 In the final exercise you will gain practical experience.
 
 ### TODO:
--   complete https://training.play-with-docker.com for IT Pros and developers
--   read about Configure networking, Manage application data in https://docs.docker.com
+1.   complete https://training.play-with-docker.com for IT Pros and developers
+2.   read about Configure networking, Manage application data in https://docs.docker.com
 
 ### Key Concepts:
 -   container
