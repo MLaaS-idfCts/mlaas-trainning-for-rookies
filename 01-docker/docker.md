@@ -1,5 +1,5 @@
 # Docker
-##### ETC: 5 days
+##### ETC: 4 days
 By the end of this section you will become a docker pro, know what they are, 
 what is the difference between a container and vm, and how do they work. 
 In the final exercise you will gain practical experience.
