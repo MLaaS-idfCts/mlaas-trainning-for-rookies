@@ -17,6 +17,10 @@
 ##### ETC: 0.5 day
 [tensorboard quick tutorial](https://itnext.io/how-to-use-tensorboard-5d82f8654496)
 
+### Federer
+##### ETC: 0.5 day
+1. https://www.youtube.com/watch?v=M8kANf8Xphg
+2. after watching the lecture, ask your supervisor for a more detailed explanation about our product.
 
 ### Final Exercise:
 ##### ETC: 2 days
