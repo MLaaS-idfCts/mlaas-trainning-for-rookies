@@ -18,4 +18,4 @@ In the final exercise you will gain practical experience.
 -   docker compose
     
 ### Final Exercise:
-Finish https://testdriven.io/blog/dockerizing-flask-with-postgres-gunicorn-and-nginx
+Create a Dockerfile that packs your code from the previous sections.

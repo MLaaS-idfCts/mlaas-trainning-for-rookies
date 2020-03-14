@@ -1,5 +1,5 @@
 # Kubernetes
-##### ETC: 2 days
+##### ETC: 3 days
 
 ### TODO:
 1. read about [kubernetes objects](https://kubernetes.io/docs/concepts/#kubernetes-objects)
@@ -17,3 +17,7 @@
 -   daemonSet, statefulSet, replicaSet
 -   configMap
 -   microservice
+
+### Final Exercise:
+Deploy the container you created in the previous section on an 
+[AKS](https://azure.microsoft.com/en-in/services/kubernetes-service/) cluster.

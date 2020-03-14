@@ -23,5 +23,5 @@ frameworks and tools that are in use by the team.
 
     
 ### Final Exercise:
-Create a **angularjs single page** static website about [random wiki](https://en.wikipedia.org/wiki/Special:Random).
-make it pretty - use css and in particular flexbox.
+Create an **angularjs single page** website for your app that will use the API you created in Django section.
+Make it pretty using your CSS knowledge.
