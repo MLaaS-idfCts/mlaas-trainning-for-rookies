@@ -1,8 +1,9 @@
 # Machine Learning
 ##### ETC: 10 days
-I hope you like buzzwords because this is the hottest field in the hi tech industry this days.
-This section is a small introduction for an unbelievably huge field, so it is extremely recommended to
-read more of this subject. 
+I hope you like buzzwords because this is the hottest field in the hi-tech industry these days.
+This section is a small introduction to an unbelievably huge field, so it is extremely recommended to
+read more about this subject. 
+
 
 ### TODO:
 1.  introduction:

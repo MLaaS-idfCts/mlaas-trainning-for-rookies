@@ -19,6 +19,3 @@ apart from the must-know knowledge explicitly written in the section.
 - DGX
 - NVLink
 - VGPU
-
-    
-### Final Exercise:

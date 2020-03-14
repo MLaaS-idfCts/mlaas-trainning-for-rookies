@@ -1,9 +1,10 @@
 # Miscellaneous
 
-### DevOp
+### DevOps
 ##### ETC: 1 day
 
-### postgres and SQL
+
+### SQL and postgres
 ##### ETC: 1.5 days
 1. [basic postgres and SQL training](https://www.datacamp.com/community/tutorials/beginners-introduction-postgresql)
 2. [postgres and Django](https://docs.djangoproject.com/en/3.0/ref/contrib/postgres/)
