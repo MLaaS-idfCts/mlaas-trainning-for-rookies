@@ -8,15 +8,17 @@ read more of this subject.
 1.  introduction:
     1. https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb
     2. https://intellipaat.com/blog/supervised-learning-vs-unsupervised-learning-vs-reinforcement-learning
-2. TODO: cursera
-3. Kaggle guides:
+
+2. Kaggle guides:
     1. https://www.kaggle.com/learn/intro-to-machine-learning
     2. https://www.kaggle.com/learn/pandas
     3. https://www.kaggle.com/learn/data-visualization
     4. https://www.kaggle.com/learn/deep-learning
-4. google curse:
-    1. https://developers.google.com/machine-learning/crash-course/ml-intro
-    2. https://developers.google.com/machine-learning/data-prep
+    
+3. https://www.coursera.org/learn/machine-learning
+
+4. https://developers.google.com/machine-learning/data-prep
+
 5.  Ben Gurion Lessons:
     1.  [decision tree](https://www.youtube.com/watch?v=dUetL87cOs8&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=8)
     2.  [ensemble](https://www.youtube.com/watch?v=DiVZ4TNGDjg&list=PL7APM8kdz5hNs4R00bWzfRWe5bVnMJjw8&index=9)

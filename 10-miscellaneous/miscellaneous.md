@@ -15,6 +15,7 @@
 
 ### tensorboard
 ##### ETC: 0.5 day
+[tensorboard quick tutorial](https://itnext.io/how-to-use-tensorboard-5d82f8654496)
 
 
 ### Final Exercise:

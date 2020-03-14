@@ -1,5 +1,5 @@
 # Openshift
-##### ETC: 
+##### ETC:
 
 ### TODO:
 1.   
