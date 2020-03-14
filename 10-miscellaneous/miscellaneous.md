@@ -1,7 +1,7 @@
 # Miscellaneous
 
 ### Development Methodology
-##### ETC: 1.5 day
+##### ETC: 1 day
 - https://www.youtube.com/watch?v=-SPFHwqiBvo
 - #### DevOps
     1. https://www.youtube.com/watch?v=kpuJSpp3hhA
