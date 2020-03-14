@@ -6,9 +6,8 @@ read more of this subject.
 
 ### TODO:
 1.  introduction:
-    1. https://www.youtube.com/watch?v=MnT1xgZgkpk
-    2. https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb
-    3. https://intellipaat.com/blog/supervised-learning-vs-unsupervised-learning-vs-reinforcement-learning
+    1. https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb
+    2. https://intellipaat.com/blog/supervised-learning-vs-unsupervised-learning-vs-reinforcement-learning
 
 2. Kaggle guides:
     1. https://www.kaggle.com/learn/intro-to-machine-learning
