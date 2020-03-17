@@ -11,10 +11,12 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
     3. you saw which image they used? in the army we like centos7, try to build it with centos7 base image (change the docker a bit to make it work)
     4. run it. works? good go to the jupyterhub section. not? we believe in you, try again.  
 2. ###### jupyterhub      
-    1. read [this](https://zero-to-jupyterhub.readthedocs.io/en/latest/) until the setup.
-    2. the setup alone is too 
+    1. read [this](https://jupyterhub.readthedocs.io/en/stable/reference/technical-overview.html) and click on the bottom links for Spawners and Authenticators (read them too ;) )
+    2. run jupyterhub on your pc with dockerspawner. use the files provided. 
+    3. test your image in your hub. try as user guest and as admin, checkout the diffrences.
+
 ### Key Concepts:
--   jupyterlab
+- jupyterlab
 - notebooks
 - pain
 - jupyterhub
