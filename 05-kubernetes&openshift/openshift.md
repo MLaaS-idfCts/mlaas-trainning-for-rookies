@@ -1,9 +1,10 @@
 # Openshift
-##### ETC:
+##### ETC: 3 days
 
 ### TODO:
-1.   
-
-### Key Concepts:
--   
-    
+go to https://training-lms.redhat.com/lmt/lmtLogin.prEnc?site=rhls
+**username**: itaygabb, 
+**password**: ML@@S!sC00l
+do the courses:
+1. Red Hat OpenShift Development I: Containerizing Applications
+2. Red Hat OpenShift Development II: Creating Microservices with Red Hat OpenShift Application Runtimes
