@@ -2,7 +2,7 @@
 ##### ETC: 4 days
 
 ### TODO:
-ask your supervisor for the materials, then read up to the **דרוש** 
+Ask your supervisor for the materials, then read up to the **דרוש** 
 level (explanation can be found in the included instruction file)
 
 ### Key Concepts:
