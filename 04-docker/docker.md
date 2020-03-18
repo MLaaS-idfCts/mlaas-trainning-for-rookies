@@ -1,9 +1,8 @@
 # Docker
+##### ETC: 4 days
 By the end of this section you will become a docker pro, know what they are, 
 what is the difference between a container and vm, and how do they work. 
 In the final exercise you will gain practical experience.
-
-##### ETC: 4 days
 
 ### TODO:
 1. https://training.play-with-docker.com - Getting Started Walk-through for IT Pros and System Administrators
@@ -24,6 +23,6 @@ In the final exercise you will gain practical experience.
 -   bind mount vs volume
 -   dockerd
 -   docker compose
-
+    
 ### Final Exercise:
 Create a Dockerfile that packs your code from the previous sections.
