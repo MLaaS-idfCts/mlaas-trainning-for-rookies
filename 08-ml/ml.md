@@ -43,7 +43,7 @@ read more about this subject.
 -   data pre processing
 
 ### Final Exercise:
-Create a model that predicts avocado prices. You can find the dataset in this folder.   
-Try use everything you have learned to make the most accurate model you can!  
-Then, pack your model as a python package, and add it to your app. Now, for the first time, 
+create a model that predicts avocado prices. You can find the dataset in this folder. 
+Try use everything you have learned to make the most accurate model you can!
+Than pack your model as a python package, and add it to your App. Now, for the first time, 
 your app is fully functioning! (of course that your full app must be deployed on yor Minishift).

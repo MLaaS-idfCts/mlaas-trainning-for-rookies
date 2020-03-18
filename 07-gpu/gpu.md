@@ -2,7 +2,7 @@
 In this section you will become familiar with the theoretical part of the GPU hardware,
 a full day was given so you will have time for a free online search on the subject,
 apart from the must-know knowledge explicitly written in the section.
-##### ETC: 1 day
+##### ETC: 1
 
 ### TODO:
 1. https://www.androidauthority.com/what-is-a-gpu-gary-explains-693542/
