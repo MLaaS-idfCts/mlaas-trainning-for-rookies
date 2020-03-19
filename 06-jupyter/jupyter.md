@@ -23,4 +23,4 @@ Shall you aim for the moon but you were too drank, jupyter has enough (also enou
 - jupyterhub
 
 ### Final Exercise:
-You suffered enough, take 5.
+You have suffered enough, take 5.
