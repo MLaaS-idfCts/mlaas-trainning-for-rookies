@@ -2,8 +2,9 @@
 ##### ETC: 4 days
 
 ### TODO:
-Ask your supervisor for the materials, then read up to the **דרוש** 
-level (explanation can be found in the included instruction file)
+-   Automated Machine Learning Chapters 2,6,8
+
+
 
 ### Key Concepts:
 -   Automl
