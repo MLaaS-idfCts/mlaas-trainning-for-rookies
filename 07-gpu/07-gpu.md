@@ -21,4 +21,4 @@ apart from the must-know knowledge explicitly written in the section.
 - VGPU
 
 ### Final Exercise:
-So why do we use GPUs to train Ml models. Use the key concepts in your answer.
+So why do we use GPUs to train Ml models? Use the key concepts in your answer.
