@@ -9,3 +9,6 @@ Go to https://training-lms.redhat.com/lmt/lmtLogin.prEnc?site=rhls
 Do the courses:
 1. Red Hat OpenShift Development I: Containerizing Applications
 2. Red Hat OpenShift Development II: Creating Microservices with Red Hat OpenShift Application Runtimes
+
+### Final Exercise:
+Make an extensive comparison between Openshift and Kubernetes. Present it to your supervisor.
