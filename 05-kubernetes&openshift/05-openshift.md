@@ -11,4 +11,4 @@ Do the courses:
 2. Red Hat OpenShift Development II: Creating Microservices with Red Hat OpenShift Application Runtimes
 
 ### Final Exercise:
-Make an extensive comparison between Openshift and Kubernetes. Present it to your supervisor
+Make an extensive comparison between Openshift and Kubernetes. Present it to your supervisor.
