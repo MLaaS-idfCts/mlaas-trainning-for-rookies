@@ -17,7 +17,3 @@
 -   daemonSet, statefulSet, replicaSet
 -   configMap
 -   microservice
-
-### Final Exercise:
-Deploy the container you created in the previous section on an 
-[AKS](https://azure.microsoft.com/en-in/services/kubernetes-service/) cluster.
