@@ -22,6 +22,7 @@ By the end of this section, you will learn how to use the main web backend frame
 -   serializer
 
 ### Final Exercise:
+######!! Important: from this section an on you should work with git !!  
 In this section you will plan and create the backend of your app.  
 Plan an API for the avocado app: Build a Django project, that will contain the prediction model in the future.  
 It is most recommended to use Django REST framework, and don't forget tests!  
