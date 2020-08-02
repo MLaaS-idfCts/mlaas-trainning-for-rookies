@@ -9,17 +9,18 @@ By the end of this section, you will learn how to use the main web backend frame
 4. [Django testing with pytest](https://pytest-django.readthedocs.io/en/latest/tutorial.html)
 
 ### Key Concepts:
--   project and app
--   views
--   models
--   setting.py file
--   migrations
--   collectstatic
--   Jinja2 vs DTL
--   Django testing
--   MVC vs MVT
--   REST API
--   serializer
+- project and app
+- views
+- models
+- setting.py file
+- migrations
+- collectstatic
+- Jinja2 vs DTL
+- Django testing
+- MVC vs MVT
+- REST API
+- serializer
+- mock vs monkeypatch
 
 ### Final Exercise:
 ######!! Important: from this section an on you should work with git !!  
