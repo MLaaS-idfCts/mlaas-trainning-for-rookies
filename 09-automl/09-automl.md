@@ -7,7 +7,7 @@
 - [D3M Docs](https://docs.datadrivendiscovery.org)
 - [DeepLine Research Paper](https://drive.google.com/file/d/1KTnxMH16nzibb-DM3uXk6XIWnrsFRbJ7/view?usp=sharing)
 - [Python Ray documentation](https://github.com/ray-project/ray)
-- Read and research Python Spark documentation
+- Read and research Ray-Modin
 - Read documentation and usage of [tpot](https://github.com/EpistasisLab/tpot)
 
 
