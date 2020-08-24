@@ -21,3 +21,6 @@
 -   Ray Cluster
 -   D3M
 -   Primitives, Pipelines, etc. (Should know from D3M)
+
+### Final Exercise:
+Oral exam
