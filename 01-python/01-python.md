@@ -42,4 +42,7 @@ for the fruits of the language are manyfold, and in your hands lay but a taste.
 -   tox
     
 ### Final Exercise:
-Write a song that glorifies Python. If you lack basic creativity, it can be a Haiku.
+- Flutter over [w3schools' Python Tutorial + File Handling](https://www.w3schools.com/python/default.asp) and make sure you are familiar with all concepts
+- Do the w3schools [python quiz](https://www.w3schools.com/python/python_quiz.asp)
+- Let your instructor choose for you a random 10 exercises from [w3resource](https://www.w3resource.com/python-exercises/)
+- Write a song that glorifies Python. If you lack basic creativity, it can be a Haiku.
