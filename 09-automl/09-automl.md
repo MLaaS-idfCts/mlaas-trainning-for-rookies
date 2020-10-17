@@ -13,9 +13,9 @@
 
 ### Key Concepts:
 -   Automl
+-   CASH Problem
 -   hyper parameter optimization
 -   meta learning
--   Tpot
 -   leave-one-out cross-validation
 -   Ray Cluster
 -   D3M
