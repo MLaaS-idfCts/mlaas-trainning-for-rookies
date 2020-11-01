@@ -12,4 +12,4 @@ Do the courses:
 
 ### Final Exercise:
 - Make an extensive comparison between Openshift and Kubernetes. Present it to your supervisor.
-- Deploy the container you created in the previous section on an [Openshift Cluster](https://console-openshift-console.apps.ocp4.idf-cts.com/k8s/cluster/projects/federer).
+- Run a Minishift cluser on an azure machine and deploy the container you created in the previous section on it.
