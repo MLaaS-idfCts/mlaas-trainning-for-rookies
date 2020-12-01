@@ -19,7 +19,7 @@ In the final exercise you will gain practical experience.
 ### Key Concepts:
 -   container
 -   user space
--   container VS VM
+-   container vs VM
 -   image and layer
 -   dockerfile
 -   docker build and docker run
