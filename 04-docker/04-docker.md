@@ -5,7 +5,7 @@ what is the difference between a container and vm, and how do they work.
 In the final exercise you will gain practical experience.
 
 ### TODO:
-1. [Introduction](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/#:~:text=each%20new%20VM.-,Container,we%20unpack%20the%20term%20container.&text=Each%20container%20gets%20its%20own,on%20a%20single%20host%20machine.)
+1. [Introduction](https://www.freecodecamp.org/news/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b/)
 2. https://training.play-with-docker.com - Getting Started Walk-through for IT Pros and System Administrators
     1. Do stage 1
     2. Stage 2: do everything up to Orchestration
@@ -29,5 +29,5 @@ In the final exercise you will gain practical experience.
 -   docker alternatives
 
 ### Final Exercise:
-Create a Dockerfile that packs your code from the previous sections.
-Give an example for a use case where VM is more suitable than container.
+Create a Dockerfile that packs your code from the previous sections.<br>
+Give an example for a use case where VM is more suitable than a container.
