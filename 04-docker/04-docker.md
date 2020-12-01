@@ -18,7 +18,7 @@ In the final exercise you will gain practical experience.
 
 ### Key Concepts:
 -   container
--   user space
+-   security groups
 -   container vs VM
 -   image and layer
 -   dockerfile
