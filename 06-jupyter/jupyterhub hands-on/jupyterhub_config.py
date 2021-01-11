@@ -1,5 +1,5 @@
 from dockerspawner import DockerSpawner
-#c.JupyterHub.spawner_class = 'dockerspawner.SystemUserSpawner'
+# c.JupyterHub.spawner_class = 'dockerspawner.SystemUserSpawner'
 
 class DockerFormSpawner(DockerSpawner):
 
@@ -8,7 +8,7 @@ class DockerFormSpawner(DockerSpawner):
 		<label for="profile">Select a job profile:</label>
         <select class="form-control" name="profile" required="" autofocus="">
 			<option value="jupyter/minimal-notebook" selected="">minimal</option>
-			<option value="<enter here>">my notebook</option>
+			<option value="notebook">my notebook</option>
 			<option value="custom">Custom Notebook</option>
         </select>
         <span id='custom'>
@@ -36,9 +36,10 @@ class DockerFormSpawner(DockerSpawner):
 
     def options_from_form(self, formdata):
         options = {}
-        options['image'] = formdata.get('profile')[0].strip()
-        if options['image'] == 'custom':
-            options['image'] = formdata.get('customimagename')[0].strip()
+        option = formdata.get('profile')[0].strip()
+        options['cimage'] = None
+        if option == 'custom':
+            options['cimage'] = formdata.get('customimagename')[0]
 
         options['cpu'] = formdata.get('cpu', [''])[0].strip()
         options['ram'] = formdata.get('ram', [''])[0].strip()
@@ -47,10 +48,9 @@ class DockerFormSpawner(DockerSpawner):
 
     @property
     def image(self):
-        if self.user_options.get('image'):
-            image = self.user_options['image']
-        else:
-            image = 'jupyter/minimal-notebook'
+        image = 'jupyter/minimal-notebook'
+        if self.user_options['cimage'] != None:
+            image = str(self.user_options['cimage'])
         return image
 
     @property
@@ -70,4 +70,6 @@ class DockerFormSpawner(DockerSpawner):
 
 c.JupyterHub.spawner_class = DockerFormSpawner
 c.DockerSpawner.host_ip = "0.0.0.0"
-c.Authenticator.admin_users = { 'admin' }
+c.JupyterHub.hub_ip = "0.0.0.0"
+c.DockerSpawner.network_name = 'jupyterhub'
+c.Authenticator.admin_users = {'admin'}
