@@ -18,7 +18,7 @@
 
 ### Splunk
 ##### ETC: 1.5 days (Includes the course)
-1. Ask your supervisor to register you to the nearest _splunk for rookies_ curse.
+1. https://www.splunk.com/en_us/training/free-courses/splunk-fundamentals-1.html
 2. Be familiar with [outcold collectors](https://www.outcoldsolutions.com/).
 
 ### Tensorboard
