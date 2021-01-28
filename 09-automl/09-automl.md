@@ -22,5 +22,5 @@
 -   Primitives, Pipelines, etc. (Should know from D3M)
 
 ### Final Exercise:
-1. Read A paper from ()[https://github.com/hibayesian/awesome-automl-papers], then write a *short* summery of it (no more then 10 lines).
+1. Read A paper from https://github.com/hibayesian/awesome-automl-papers, then write a *short* summery of it (no more then 10 lines).
 2. Oral exam (on the AutoML seciton and on the paper from ex.1)
